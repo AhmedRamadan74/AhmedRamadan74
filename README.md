@@ -24,6 +24,16 @@ As a Data Analyst and Data Scientist, I start by deeply understanding the busine
 <table>
   <tr>
     <td valign="top" width="33%">
+      <h3 align="center">Data Science</h3>
+      <div align="center">  
+        <img src="https://img.shields.io/badge/Data%20Preprocessing-red?style=for-the-badge&logo=Data%20Preprocessing&logoColor=white&label=Skill&labelColor=black" alt="Data Preprocessing" />
+        <img src="https://img.shields.io/badge/Data%20Preparation-yellow?style=for-the-badge&logo=Data%20Preparation&logoColor=white&label=Skill&labelColor=black" alt="Data Preparation" />
+        <img src="https://img.shields.io/badge/Scikit_Learn-blue?style=for-the-badge&logo=Scikit%20Learn&logoColor=white" alt="Scikit Learn" />
+        <img src="https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+        <img src="https://img.shields.io/badge/pycaret-blue?style=for-the-badge&logo=pycaret&logoColor=white" alt="pycaret" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
       <h3 align="center">Data Analysis</h3>
       <div align="center">  
         <img src="https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
@@ -58,14 +68,14 @@ As a Data Analyst and Data Scientist, I start by deeply understanding the busine
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohila-Khaled-Abbas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRamadan74&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 📈 Featured Projects
 
 <div align="center">
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiNzc1YzdkYWQtZDlkZC00MDhkLWJhNGEtZDg4YzRmMDI5NTljIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9">
-    <img src="https://img.shields.io/badge/SMART_Supply_Chain_Insights_Dashboard-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="SMART Supply Chain Insights Dashboard" />
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiMjVhNzI0MTctZGQ2MC00NzMxLTkzODItNmJiY2ZhZjRhOTJlIiwidCI6IjYzMTljNGQ4LWRlMmMtNGEzNy05NzA4LWQ0MjAwYzA3NDQ5OCJ9&pageName=ReportSectionc36a20d275418b20b56c">
+    <img src="https://img.shields.io/badge/UBER_NYC_Dashboard-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="UBER NYC Dashboard" />
   </a>
   <a href="https://github.com/Sohila-Khaled-Abbas/ab-testing-marketing-conversion">
     <img src="https://img.shields.io/badge/Marketing_Data_A/B_Testing-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Marketing Data A/B Testing" />

@@ -137,15 +137,16 @@ src="https://img.shields.io/badge/GitHub_Repo-100000?style=for-the-badge&logo=gi
 <tr>
 <td>
 
-- Zomato is an Indian multinational restaurant aggregator and food delivery company, founded by Deepinder Goyal and Pankaj Chaddah in 2008.  
-- It provides:  
-  - Information, menus, and user reviews of restaurants.  
-  - Food delivery services from partner restaurants across 1,000+ Indian cities and towns (as of 2022–23).  
-  - Zomato competes with Swiggy in the food delivery and hyperlocal market.  
+### 🏢 About Zomato
+- Zomato is an Indian multinational restaurant aggregator and food delivery company, founded by **Deepinder Goyal** and **Pankaj Chaddah** in 2008.
+- It provides:
+  - Information, menus, and user reviews of restaurants.
+  - Food delivery services from partner restaurants across 1,000+ Indian cities and towns (as of 2022–23).
+- Zomato competes with Swiggy in the food delivery and hyperlocal market.
 
-- Objective of this project:  
-  - Analyze data to identify key features that influence the success of a restaurant.  
-  - Predict whether a restaurant is likely to be successful based on these insights.  
+### 🎯 Objective
+- Analyze data to identify key features that influence the success of a restaurant.
+- Predict whether a restaurant is likely to be successful based on these insights.
 
 - **Technologies :** Python, pandas, XGBoost Classifier, Streamlit  
 - **Result :** Accuracy Model = 84%
@@ -169,29 +170,199 @@ src="https://img.shields.io/badge/GitHub_Repo-100000?style=for-the-badge&logo=gi
 </tr>
 </table>
 
+### 📊 Customer Segemention
+<table>
+<tr>
+<td>
+
+### 🎯 Objective
+- Create a **customer segmentation model** to recommend the best merchants for each user as targeted offers.
+
+### 📄 About the Data
+- Transactional dataset containing all customer transactions.
+- Includes:
+  - Merchant names and the number of times each customer purchased from each merchant.
+  - Points the customer owns.
+  - Other relevant customer and transaction details.
+
+- **Technologies :** Python, pandas, RFM (recency frequency monetary ), DBSCAN, Streamlit  
+</td>
+<td align="right">
+
+<a href="https://github.com/AhmedRamadan74/customer-segemention-with-RFM">
+  <img width="250" src="https://img.shields.io/badge/GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br/>
+<a href="https://customer-segemention-with-rfm.streamlit.app/">
+  <img width="250" src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=Streamlit&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+### 📊 Air Flight Tickets predict
+<table>
+<tr>
+<td>
+
+### 📄 About the Data
+- Collected in **2019**, containing details of air flight tickets in India.
+- Includes flights between specific source and destination cities, such as:
+  - Delhi → Cochin
+  - Kolkata → Bangalore
+  - Bangalore → Delhi / New Delhi
+  - Mumbai → Hyderabad
+  - Chennai → Kolkata
+
+### 🎯 Objective
+- Analyze the data to identify the key features that influence air flight ticket prices.
+- Build and train a predictive model to estimate ticket prices based on these features.
+
+- **Technologies :** Python, pandas, XGB Regressor, Streamlit
+- **Reuslt :** Accuracy Model = 87%
+</td>
+<td align="right">
+
+<a href="https://github.com/AhmedRamadan74/Air-Flight-Tickets-predict">
+  <img width="250" src="https://img.shields.io/badge/GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br/>
+<a href="https://air-flight-tickets-predict.streamlit.app/">
+  <img width="250" src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=Streamlit&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+### 🔍 Other Data Science Projects
+
+<details>
+  <summary>Click to expand</summary>
+
+### 📊 Loan Detection Prediction
+<table>
+<tr>
+<td>
+
+### 🏢 About the Company
+- Dream Housing Finance is a company that provides **home loans** across urban, semi-urban, and rural areas.
+- Customers first apply for a home loan, and then the company validates their eligibility based on the provided details.
+- The company aims to automate the loan eligibility process in **real-time** using customer information from the online application form.
+
+### 🎯 Objective
+- Build a **machine learning model** to automate the loan eligibility process in real-time based on customer details provided in the application.
+
+- **Technologies :** Python, pandas, XGB Regressor, Streamlit
+- **Reuslt :** Accuracy Model (precision) = 95%
+</td>
+<td align="right">
+
+<a href="https://github.com/AhmedRamadan74/Loan-Detection">
+  <img width="250" src="https://img.shields.io/badge/GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br/>
+<a href="https://loan-detection.streamlit.app/">
+  <img width="250" src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=Streamlit&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+### 📊 Credit Fraud Detection
+
+<table>
+<tr>
+<td>
+
+### 📄 About the Problem
+- It is crucial for credit card companies to recognize **fraudulent transactions** to ensure customers are not charged for purchases they did not make.
+
+### 🎯 Objective
+- Build a **machine learning model** to detect anomalies (fraudulent transactions) in credit card data.
+
+- **Technologies :** Python, pandas, Isolation forest, Streamlit
+- **Reuslt :** Accuracy Model = 91%
+</td>
+<td align="right">
+
+<a href="https://github.com/AhmedRamadan74/Credit-fraud">
+  <img width="250" src="https://img.shields.io/badge/GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br/>
+<a href="https://www.kaggle.com/code/ahmedramadan74/anomaly-detection-used-isolation-forest">
+  <img width="250" src="https://img.shields.io/badge/Kaggle-Notebook-blue?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+### 📊 Starbucks
+
+<table>
+<tr>
+<td>
+  
+### 📄 About the Data
+- The dataset contains simulated **customer behavior** on the Starbucks Rewards mobile app.
+- Includes:
+  - Demographic data about users.
+  - Transactional data showing purchases with timestamps and amounts.
+  - Offer data recording when users receive, view, and complete offers.
+- Offers can be:
+  - **Informational** (ads) or **promotions** (discounts, BOGO).
+  - Each offer has a validity period during which it can influence behavior.
+  - Not all users receive the same offers, and some weeks users receive no offer at all.
+
+### 🎯 Objective
+- Analyze and combine transaction, demographic, and offer data to determine:
+  - Which demographic groups respond best to which type of offer.
+  - How different offers influence customer purchasing behavior across segments.
+- Enable more **targeted and effective marketing strategies** based on these insights.
 
 
+- **Technologies :** Python, pandas, XGB Classifier, Streamlit
+- **Reuslt :** Accuracy Model = 65%
+</td>
+<td align="right">
+
+<a href="https://github.com/AhmedRamadan74/starbucks">
+  <img width="250" src="https://img.shields.io/badge/GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br/>
+<a href="https://starbucks-predict.streamlit.app/">
+  <img width="250" src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=Streamlit&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</details>
 
 
 ## 📫 Let's Connect!
 <div align="center">
-  <a href="mailto:sohilakhaled811@gmail.com">
+  <a href="mailto:ahmedcoolahmed17@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/sohilakabbas">
+  <a href="https://www.linkedin.com/in/ahmed-ramadan-2273b6370/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://sohilakhaledportfolio.vercel.app/">
+  <a href="https://ahmed-ramadan-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sohila-Khaled-Abbas&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AhmedRamadan74&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sohila-Khaled-Abbas&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AhmedRamadan74&theme=nord&column=7&no-frame=true" alt="GitHub Trophies" />
 </div>

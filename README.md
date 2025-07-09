@@ -77,11 +77,11 @@ As a Data Analyst and Data Scientist, I start by deeply understanding the busine
   <a href="https://app.powerbi.com/view?r=eyJrIjoiMjVhNzI0MTctZGQ2MC00NzMxLTkzODItNmJiY2ZhZjRhOTJlIiwidCI6IjYzMTljNGQ4LWRlMmMtNGEzNy05NzA4LWQ0MjAwYzA3NDQ5OCJ9&pageName=ReportSectionc36a20d275418b20b56c">
     <img src="https://img.shields.io/badge/UBER_NYC_Dashboard-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="UBER NYC Dashboard" />
   </a>
-  <a href="https://github.com/Sohila-Khaled-Abbas/ab-testing-marketing-conversion">
-    <img src="https://img.shields.io/badge/Marketing_Data_A/B_Testing-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Marketing Data A/B Testing" />
+  <a href="https://github.com/AhmedRamadan74/zomato">
+    <img src="https://img.shields.io/badge/Zomato_Restaurant_Success_Prediction-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Zomato Restaurant Success Prediction" />
   </a>
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiMGNjZmFlOWItMWU3My00ZjM4LTlhYjQtMWY5N2QzOGQwMTAyIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9">
-    <img src="https://img.shields.io/badge/Wuzzuf_Job_Market_Analysis-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Wuzzuf Job Market Analysis" />
+    <a href="https://github.com/AhmedRamadan74/customer-segemention-with-RFM">
+    <img src="https://img.shields.io/badge/Customer_Segemention-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Customer Segemention" />
   </a>
 </div>
 

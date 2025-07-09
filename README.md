@@ -113,7 +113,7 @@ As a Data Analyst and Data Scientist, I start by deeply understanding the busine
   <summary>Click to expand</summary>
   
   ### Sales Analysis Dashboard
-  <a href="https://github.com/AhmedRamadan74/Sales-Analysis"><img align="right" width="250" 
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiMWQwZTZjZTMtZjNlMy00MDhjLWE5MGYtOTI5N2IxMTg2NGFhIiwidCI6IjYzMTljNGQ4LWRlMmMtNGEzNy05NzA4LWQ0MjAwYzA3NDQ5OCJ9"><img align="right" width="250" 
    src="https://img.shields.io/badge/Live_Dashboard-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /></a>
 - Designed and developed a comprehensive dashboard to monitor and analyze key business metrics, including sales, revenue, customer behavior, and shipping operations.
 - Delivered actionable insights through:

@@ -71,7 +71,7 @@ As a Data Analyst and Data Scientist, I start by deeply understanding the busine
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRamadan74&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-## 📈 Featured Projects
+# 📈 Featured Projects
 
 <div align="center">
   <a href="https://app.powerbi.com/view?r=eyJrIjoiMjVhNzI0MTctZGQ2MC00NzMxLTkzODItNmJiY2ZhZjRhOTJlIiwidCI6IjYzMTljNGQ4LWRlMmMtNGEzNy05NzA4LWQ0MjAwYzA3NDQ5OCJ9&pageName=ReportSectionc36a20d275418b20b56c">
@@ -85,56 +85,92 @@ As a Data Analyst and Data Scientist, I start by deeply understanding the busine
   </a>
 </div>
 
-### 🔍 SMART Supply Chain Insights Dashboard
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNzc1YzdkYWQtZDlkZC00MDhkLWJhNGEtZDg4YzRmMDI5NTljIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9"><img align="right" width="250" src="https://img.shields.io/badge/Live_Dashboard-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /></a>
+<h2 align="center">Data Analysis Project</h2>
 
-- Developed a comprehensive dashboard to monitor logistics efficiency and supplier reliability KPIs
-- Integrated Python and Excel for data preprocessing across multiple supply chain sources
+### 📈 UBER NYC Dashboard
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMjVhNzI0MTctZGQ2MC00NzMxLTkzODItNmJiY2ZhZjRhOTJlIiwidCI6IjYzMTljNGQ4LWRlMmMtNGEzNy05NzA4LWQ0MjAwYzA3NDQ5OCJ9&pageName=ReportSectionc36a20d275418b20b56c"><img align="right" width="250" src="https://img.shields.io/badge/Live_Dashboard-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /></a>
+
+- Developed a comprehensive dashboard to identify busiest periods, peak demand seasons, and key performance metrics such as pickup rate, trip duration, and fare
+- Integrated Python and SQL for data preprocessing across multiple supply chain sources
 - Visualized insights using Power BI with DAX-driven metrics for optimization opportunities
-- **Technologies:** Power BI, Python, Excel, DAX
+- **Technologies:** Power BI, Python, SQL, DAX
 
-### 📊 Marketing Data A/B Testing Project
-<a href="https://github.com/Sohila-Khaled-Abbas/ab-testing-marketing-conversion"><img align="right" width="250" src="https://img.shields.io/badge/GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+### 📈 HR Attrition Dashboard
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYmYzOGM3MDgtOWM4Yy00ODk3LWE3ZWEtODhmNmQ2OTJlNDkyIiwidCI6IjYzMTljNGQ4LWRlMmMtNGEzNy05NzA4LWQ0MjAwYzA3NDQ5OCJ9"><img align="right" width="250" src="https://img.shields.io/badge/Live_Dashboard-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /></a>
 
-- Conducted A/B testing analysis using statistical methods to validate marketing campaign effectiveness
-- Applied chi-square testing to confirm statistical significance, providing actionable insights
-- **Technologies:** Python (Pandas, SciPy), SQL, Excel
+- Developed an interactive dashboard to track and analyze employee turnover trends.
+- Helped HR teams identify key attrition drivers and improve retention strategies through:
+  - Segmentation of attrition rates by relevant dimensions (e.g., department, role, tenure).
+  - Demographic insights into age, gender, and other factors.
+  - Analysis of compensation gaps and their correlation with attrition.
+  - Categorization of exit interview feedback to highlight top reasons for turnover.
 
-### 📈 Wuzzuf Job Market Analysis Dashboard
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMGNjZmFlOWItMWU3My00ZjM4LTlhYjQtMWY5N2QzOGQwMTAyIiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9"><img align="right" width="250" src="https://img.shields.io/badge/Live_Dashboard-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /></a>
+- **Technologies:** Power BI, Dax, Excel, Power Query
 
-- Scraped and analyzed 200+ job postings, extracting patterns in role requirements
-- Developed an interactive dashboard used by 200+ users to explore job market trends
-- **Technologies:** Power BI, Python (BeautifulSoup, Selenium)
-
-### 🔍 Other Notable Projects
+### 🔍 Other Data Analysis Projects
 
 <details>
   <summary>Click to expand</summary>
   
-  ### Social Media Advertising Dashboard
-  - Cleaned and aggregated multi-platform advertising data, achieving 100% data completeness
-  - Identified key engagement drivers responsible for 35% of total platform engagement
-  - **Technologies:** Power BI, Python
+  ### Sales Analysis Dashboard
+  <a href="https://github.com/AhmedRamadan74/Sales-Analysis"><img align="right" width="250" 
+   src="https://img.shields.io/badge/Live_Dashboard-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /></a>
+- Designed and developed a comprehensive dashboard to monitor and analyze key business metrics, including sales, revenue, customer behavior, and shipping operations.
+- Delivered actionable insights through:
+  - Real-time sales tracking by product, category, region, and channel, with trend analysis over multiple timeframes.
+  - Detailed revenue analysis highlighting key drivers, growth contributions, and top-performing products/services.
+  - Customer segmentation and behavior analysis, including demographics, CLV, churn, and repeat vs. new customers.
+  - Shipping operations monitoring to track delivery performance, costs, and identify process bottlenecks.
+- **Technologies:** Power BI, Dax, Excel, Power Query
   
-  ### HR Analytics Dashboard
-  - Developed an HR dashboard to monitor 100+ employee KPIs, providing management with real-time workforce insights
-  - Automated monthly reporting processes, reducing reporting time by 30%
-  - **Technologies:** Power BI, DAX, Excel
-  
-  ### Startup Expansion Analysis Dashboard
-  - Automated data preprocessing, resolving 15% missing data
-  - Highlighted key metrics: $1.5M revenue lead, ROI exceeding 137,437.83%
-  - **Technologies:** Power BI, Python
-  
-  ### Emergency Room Dashboard
-  - Boosted patient satisfaction (+13%) and reduced wait times (1.9%)
-  - **Technologies:** Power BI
-  
-  ### Regional Sales Dashboard
-  - Achieved a 20% sales increase through advanced DAX measures
-  - **Technologies:** Power BI
+  ### Air Flight Tickets Analysis
+  <a href="https://github.com/AhmedRamadan74/Air-Flight-Tickets-Analysis"><img align="right" width="250" 
+src="https://img.shields.io/badge/GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  - Analyzed flight data to identify the important features influencing ticket prices.
+  - **Technologies:** Python, streamlit
 </details>
+
+<h2 align="center">Data Science Project</h2>
+
+### 📊 Zomato Restaurant Success Prediction
+<table>
+<tr>
+<td>
+
+- Zomato is an Indian multinational restaurant aggregator and food delivery company, founded by Deepinder Goyal and Pankaj Chaddah in 2008.  
+- It provides:  
+  - Information, menus, and user reviews of restaurants.  
+  - Food delivery services from partner restaurants across 1,000+ Indian cities and towns (as of 2022–23).  
+  - Zomato competes with Swiggy in the food delivery and hyperlocal market.  
+
+- Objective of this project:  
+  - Analyze data to identify key features that influence the success of a restaurant.  
+  - Predict whether a restaurant is likely to be successful based on these insights.  
+
+- **Technologies :** Python, pandas, XGBoost Classifier, Streamlit  
+- **Result :** Accuracy Model = 84%
+
+</td>
+<td align="right">
+
+<a href="https://github.com/AhmedRamadan74/zomato">
+  <img width="250" src="https://img.shields.io/badge/GitHub_Repo-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br/>
+<a href="https://www.kaggle.com/code/ahmedramadan74/zomato-analysis-and-classifaction">
+  <img width="250" src="https://img.shields.io/badge/Kaggle-Notebook-blue?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+<br/>
+<a href="https://zomato-analysis-classfication.streamlit.app/">
+  <img width="250" src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=Streamlit&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+
+
 
 
 ## 📫 Let's Connect!

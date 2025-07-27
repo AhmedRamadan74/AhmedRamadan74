@@ -8,7 +8,7 @@
   <a href="https://ahmed-ramadan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/ahmed-ramadan-2273b6370/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/AhmedRamadan74"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:ahmedcoolahmed17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:ahmedramadandawoud@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ## 📊 About Me
@@ -346,7 +346,7 @@ src="https://img.shields.io/badge/GitHub_Repo-100000?style=for-the-badge&logo=gi
 
 ## 📫 Let's Connect!
 <div align="center">
-  <a href="mailto:ahmedcoolahmed17@gmail.com">
+  <a href="mailto:ahmedramadandawoud@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/ahmed-ramadan-2273b6370/">
